@@ -1,0 +1,33 @@
+_repo: The-Safety-First-Club-and-the-Flood_64566
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Anderson, Frederic A.
+    alias: Anderson, F. A.
+    birthdate: 1894
+    deathdate: 1950
+    gutenberg_agent_id: '52958'
+    url: http://www.gutenberg.org/2009/agents/52958
+creator:
+  author:
+    agent_name: Nichols, William Theophilus
+    alias: Nichols, W. T.
+    birthdate: 1863
+    gutenberg_agent_id: '52957'
+    url: http://www.gutenberg.org/2009/agents/52957
+description: ''
+gutenberg_issued: '2021-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64566'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Boys -- Societies and clubs -- Juvenile fiction'
+- !lcsh 'Floods -- Juvenile fiction'
+- GITenberg
+title: The Safety First Club and the Flood
+url: http://www.gutenberg.org/ebooks/64566
